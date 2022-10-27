@@ -1,5 +1,4 @@
-
-
+# JeongGeunHo
 <div align="center">
   <h3> 🛠️ Tech Stack 🛠️ <h3>
   <img src="https://img.shields.io/badge/apple-000000?style=flat-square&logo=apple&logoColor=white">
