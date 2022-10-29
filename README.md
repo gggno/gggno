@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
     
   ---
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gggno)](https://solved.ac/gggno)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcd03318)](https://solved.ac/abcd03318)
 </div>
 
 
